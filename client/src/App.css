@@ -1,3 +1,23 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.bg-gradient {
+    background: radial-gradient(#0446b0, #000277);
+}
+
+.bg-gradient:hover {
+    background: radial-gradient(#0751c9, #02059b);
+}
+
+.custom-border {
+    border: 2px solid black;
+}
+
+.success {
+    background: radial-gradient(#04b07a, #007730);
+}
+
+.error {
+    background: radial-gradient(#b00404, #770000);
+}

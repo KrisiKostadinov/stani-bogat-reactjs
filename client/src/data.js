@@ -331,6 +331,69 @@ export const questions = [
     }
 ]
 
+export const moneyBar = [
+    {
+        number: 1,
+        money: 50
+    },
+    {
+        number: 2,
+        money: 100
+    },
+    {
+        number: 3,
+        money: 200
+    },
+    {
+        number: 4,
+        money: 250
+    },
+    {
+        number: 5,
+        money: 500
+    },
+    {
+        number: 6,
+        money: 1000
+    },
+    {
+        number: 7,
+        money: 2000
+    },
+    {
+        number: 8,
+        money: 5000
+    },
+    {
+        number: 9,
+        money: 7500
+    },
+    {
+        number: 10,
+        money: 10000
+    },
+    {
+        number: 11,
+        money: 12500
+    },
+    {
+        number: 12,
+        money: 15000
+    },
+    {
+        number: 13,
+        money: 25000
+    },
+    {
+        number: 14,
+        money: 50000
+    },
+    {
+        number: 15,
+        money: 100000
+    },
+].reverse();
+
 import background1 from "./assets/images/background-1.jpg";
 import background2 from "./assets/images/background-2.jpg";
 import background3 from "./assets/images/background-3.png";
